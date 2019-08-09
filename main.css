@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    margin: 2rem 2.5rem 3rem;
+}
+
+h1, p {
+    max-width: 40rem;
+    margin: 1em auto;
+}
