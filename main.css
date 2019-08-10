@@ -3,7 +3,7 @@ body {
     margin: 2rem 2.5rem 3rem;
 }
 
-h1, p {
+h1, h2, p, ul {
     max-width: 40rem;
     margin: 1em auto;
 }
