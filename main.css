@@ -1,6 +1,12 @@
 body {
     font-family: sans-serif;
     margin: 2rem 2.5rem 3rem;
+    background: #17514b;
+    color: #caf6f2;
+}
+
+a {
+    color: #3ad7f7;
 }
 
 h1, h2, p, ul {
