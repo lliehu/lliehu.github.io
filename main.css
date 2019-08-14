@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Linux Biolinum G', 'Linux Biolinum O', 'Linux Biolinum', sans-serif;
     margin: 2rem 2.5rem 3rem;
     background: #17514b;
     color: #caf6f2;
@@ -12,6 +12,18 @@ a {
 h1, h2, p, ul {
     max-width: 40rem;
     margin: 1em auto;
+}
+
+h1 {
+    position: relative;
+}
+
+h1 .fleuron {
+    font-family: 'DejaVu Sans';
+    position: absolute;
+    width: 2em;
+    left: -2.2em;
+    text-align: right;
 }
 
 ul {
