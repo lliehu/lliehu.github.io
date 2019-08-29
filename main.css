@@ -1,6 +1,6 @@
 body {
     font-family: 'Linux Biolinum G', 'Linux Biolinum O', 'Linux Biolinum', sans-serif;
-    margin: 2rem 2.5rem 3rem;
+    margin: 3rem 3rem 4.5em 3.75rem; /* ratio: 1, 1, 1.5, 1.25 */
     background: #17514b;
     color: #caf6f2;
 }
