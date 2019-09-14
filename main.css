@@ -11,6 +11,10 @@ body {
     margin: 0 auto;
 }
 
+body h1:first-child {
+    margin-top: 0;
+}
+
 a {
     color: #3ad7f7;
     text-decoration: none;
